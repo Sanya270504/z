@@ -1,0 +1,121 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    width: 100%;
+    margin: 0;
+    color: rgba(61, 79, 159, 1);
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.menu li {
+    margin: 27px 26px;
+}
+
+.menu li a {
+    color: #697CA6;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    color: #5E81FE;
+}
+
+.social_media {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+
+.social_media li {
+    margin: 27px 26px;
+}
+
+.social_media li a {
+    color: #B6BAC7;
+    text-decoration: none;
+}
+
+.social_media li a:hover {
+    color: #5E81FE;
+}
+
+.button {
+    background: #D2E1FF;
+    color: #3A79FF;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 17px;
+}
+
+.background {
+    background-image: url("img/fon.png");
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.logos {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.logos li {
+    margin: 27px 26px;
+}
+
+.logos li a {
+    color: #B6BAC7;
+    text-decoration: none;
+}
+
+.logos li a:hover {
+    color: #5E81FE;
+}
+
+.plan {
+    padding-top: 132px;
+    text-align: center;
+}
+
+.plan2 {
+    font-size: 52px;
+    font-weight: 400;
+}
+
+span {
+    font-weight: 700;
+}
+.logos{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    
+}
+.logos li{
+margin: 27px 26px;
+} 
+.logos li a{
+    color: #B6BAC7;
+    text-decoration: none; 
+    
+}
+.logos li a:hover {
+    color: #5E81FE;
+    
+}
